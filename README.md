@@ -21,6 +21,9 @@ https://www.logitech.com.cn/zh-cn/product/mx-master-2s-flow
 [LOGITECH CRAFT键盘](https://www.logitech.com.cn/zh-cn/product/craft?crid=27)    
 https://www.logitech.com.cn/zh-cn/product/craft?crid=27
 
+[跨屏 FLOW 体验，罗技 M590 使用体验](http://www.dgtle.com/article-19723-1.html)    
+http://www.dgtle.com/article-19723-1.html
+
 
 ### 软路由技术 
 
