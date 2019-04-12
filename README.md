@@ -1,7 +1,6 @@
-# Information-Technology
+# Information-Technology (Last update:4/12/2019 3:09:17 PM)
 Good good study day day up！
 
-## Information Technology (Last update:4/12/2019 3:09:17 PM)
 
 ### 一套键鼠控制多台电脑方法总结
 
