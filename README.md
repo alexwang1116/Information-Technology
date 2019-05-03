@@ -1,4 +1,4 @@
-# Information-Technology (Last update:4/12/2019 3:09:17 PM)
+# Information-Technology (Last update:5/3/2019 11:21:42 AM)
 Good good study day day up！
 
 
@@ -30,5 +30,7 @@ http://www.dgtle.com/article-19723-1.html
 [软路由搭建攻略：从小白到大白](https://post.smzdm.com/p/az59qdwo/)    
 https://post.smzdm.com/p/az59qdwo/
 
+[[整机搭建] 跑满带宽的爽快感，从软路由开始！！！](https://www.chiphell.com/thread-1744266-1-1.html)    
+https://www.chiphell.com/thread-1744266-1-1.html
 
 
