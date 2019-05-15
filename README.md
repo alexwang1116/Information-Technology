@@ -1,4 +1,4 @@
-# Information-Technology (Last update:5/3/2019 4:00:27 PM)
+# Information Technology (Last update:5/14/2019 11:16:45 PM)
 Good good study day day up！
 
 
@@ -35,3 +35,16 @@ https://www.chiphell.com/thread-1744266-1-1.html
 
 [说说软路由的那些事…](https://www.jinbo123.com/7588.html)    
 https://www.jinbo123.com/7588.html
+
+
+### HTPC家庭影院电脑
+
+[终于拔了这棵草：自己动手组装HTPC+NAS](https://post.smzdm.com/p/622763/)    
+https://post.smzdm.com/p/622763/
+
+
+### NAS相关技术
+
+
+### 黑苹果
+
