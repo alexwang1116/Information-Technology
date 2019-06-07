@@ -52,3 +52,60 @@
 
 ### 黑苹果（Hackintosh）
 
+
+
+# MacBook Pro (Last update:6/3/2019 8:29:48 PM)
+📢 Good good study day day up！🔔
+
+
+### 测评
+
+2019款MacBook Pro试用 - 第九代CPU速度快多了    
+🚪 https://www.cnbeta.com/articles/tech/850931.htm
+
+### 价格对比
+
+#### 2019款MacBook Pro 15寸
+配置：    
+Hardware   
+**2.3GHz** **8‑core 9th‑generation** Intel Core **i9** processor, Turbo Boost up to **4.8GHz**
+Retina display with True Tone        
+Touch Bar and Touch ID    
+**16GB** 2400MHz **DDR4** memory    
+Radeon Pro 560X with **4GB** of GDDR5 memory    
+**512GB** SSD storage    
+Four Thunderbolt 3 ports    
+Backlit Keyboard - US English    
+Accessory Kit    
+Software    
+macOS   
+Photos, iMovie, GarageBand   
+Pages, Numbers, Keynote    
+
+📢美版价格：2,829.66（含税）（约合RMB 19,544.6）    
+📢加版价格：3,897.37（含税）（约合RMB 20,054.9）    
+📢陆版价格：RMB 19,799
+
+#### 2018款MacBook Pro 13寸
+
+配置：   
+Hardware    
+**2.4GHz quad‑core 8th‑generation** Intel Core **i5** processor, Turbo Boost up to **4.1GHz**    
+Retina display with True Tone    
+Touch Bar and Touch ID    
+Intel Iris Plus Graphics 655    
+**16GB** 2133MHz **LPDDR3 memory**    
+**512GB** SSD storage    
+Four Thunderbolt 3 ports    
+Backlit Keyboard - US English    
+Accessory Kit    
+Software    
+macOS   
+Photos, iMovie, GarageBand    
+Pages, Numbers, Keynote    
+
+📢美版价格：2,263.51（含税）（约合RMB 15,634.2）    
+📢加版价格：3,090.55（含税）（约合RMB 15,903.2）    
+📢陆版价格：RMB 16,021
+
+
