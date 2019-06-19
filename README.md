@@ -1,4 +1,4 @@
-# Information Technology (Last update:6/14/2019 8:33:34 PM)
+# Information Technology (Last update:6/18/2019 5:06:00 PM)
 📢 Good good study day day up！🔔
 
 
@@ -56,8 +56,13 @@
 https://imac.hk/tag/hackintosh/
 
 
+### 在Windows电脑上配置Putty和Xming
 
+How to configure Putty & Xming (on your laptop)     
+🚪 http://laptops.eng.uci.edu/software-installation/using-linux/how-to-configure-xming-putty
 
+Installing/Configuring PuTTy and Xming    
+🚪 http://www.geo.mtu.edu/geoschem/docs/putty_install.html
 
 
 
