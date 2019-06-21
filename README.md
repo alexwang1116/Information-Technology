@@ -71,7 +71,7 @@ Installing/Configuring PuTTy and Xming
 
 
 
-# MacBook Pro (Last update:6/3/2019 8:29:48 PM)
+# MacBook Pro (Last update:6/21/2019 10:31:30 AM)
 📢 Good good study day day up！🔔
 
 
@@ -80,7 +80,7 @@ Installing/Configuring PuTTy and Xming
 2019款MacBook Pro试用 - 第九代CPU速度快多了    
 🚪 https://www.cnbeta.com/articles/tech/850931.htm
 
-### 价格对比
+### 价格对比（教育优惠价格）
 
 #### 2019款MacBook Pro 15寸
 配置：    
