@@ -1,4 +1,4 @@
-# Information Technology (Last update:6/18/2019 5:06:00 PM)
+# Information Technology (Last update:12/13/2019 4:37:28 PM)
 📢 Good good study day day up！🔔
 
 
@@ -64,6 +64,14 @@ How to configure Putty & Xming (on your laptop)
 Installing/Configuring PuTTy and Xming    
 🚪 http://www.geo.mtu.edu/geoschem/docs/putty_install.html
 
+
+### 在线视频下载与无损压缩
+
+V视频助手 一键下载在线视频     
+🚪 http://v.ranks.xin/ 
+
+在线视频压缩    
+🚪 https://www.apowersoft.cn/compress-video-online
 
 
 ----------
